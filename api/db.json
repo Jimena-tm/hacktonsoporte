@@ -1,0 +1,241 @@
+{
+  "users": [
+    {
+      "name": "Maria Noriega",
+      "username": "mnoriega",
+      "password": "1234567",
+      "age": "22",
+      "phone": "999888777",
+      "place": "Lima",
+      "specialization": "FrontEnd",
+      "firstTime": true,
+      "id": 1
+    },
+    {
+      "id": 1,
+      "name": "Mario Gonzales",
+      "course": "Backend",
+      "profile": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, ut neque. Tenetur dignissimos quisquam praesentium minima error, debitis consequatur! Velit facere id nisi repellat? Dolore nesciunt aut sit provident necessitatibus.",
+      "campus": "Sede San Juan de Miraflores",
+      "phone": "977456789",
+      "email": "mario@asd.com",
+      "profileUrl": "https://picsum.photos/100/100"
+    },
+    {
+      "id": 2,
+      "name": "Yuri Sacatoma",
+      "course": "FrontEnd",
+      "profile": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, ut neque. Tenetur dignissimos quisquam praesentium minima error, debitis consequatur! Velit facere id nisi repellat? Dolore nesciunt aut sit provident necessitatibus.",
+      "campus": "Sede San Juan de Miraflores",
+      "phone": "977456789",
+      "email": "yuri@asd.com",
+      "profileUrl": null
+    },
+    {
+      "id": 3,
+      "name": " Luis Fernandez",
+      "course": "Diseno UX",
+      "profile": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, ut neque. Tenetur dignissimos quisquam praesentium minima error, debitis consequatur! Velit facere id nisi repellat? Dolore nesciunt aut sit provident necessitatibus.",
+      "campus": "Sede San Juan de Miraflores",
+      "phone": "977456789",
+      "email": "luis@asd.com",
+      "profileUrl": null
+    },
+    {
+      "id": 4,
+      "name": "Camila Cordoba",
+      "course": "Desarrollo de apps",
+      "profile": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, ut neque. Tenetur dignissimos quisquam praesentium minima error, debitis consequatur! Velit facere id nisi repellat? Dolore nesciunt aut sit provident necessitatibus.",
+      "campus": "Sede San Juan de Miraflores",
+      "phone": "977456789",
+      "email": "camila@asd.com",
+      "profileUrl": "https://picsum.photos/100/100"
+    },
+    {
+      "id": 5,
+      "name": "Franco Ponce",
+      "course": "Desarrollo de Videojuegos en Unity",
+      "profile": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, ut neque. Tenetur dignissimos quisquam praesentium minima error, debitis consequatur! Velit facere id nisi repellat? Dolore nesciunt aut sit provident necessitatibus.",
+      "campus": "Sede San Juan de Miraflores",
+      "phone": "977456789",
+      "email": "franco@asd.com",
+      "profileUrl": null
+    },
+    {
+      "id": 6,
+      "name": "GabrielaVela",
+      "course": "BackEnd",
+      "profile": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, ut neque. Tenetur dignissimos quisquam praesentium minima error, debitis consequatur! Velit facere id nisi repellat? Dolore nesciunt aut sit provident necessitatibus.",
+      "campus": "Sede San Juan de Miraflores",
+      "phone": "977456789",
+      "email": "gabriela@asd.com",
+      "profileUrl": null
+    },
+    {
+      "name": "Paloma Torres",
+      "username": "ptorresm",
+      "password": "1234567",
+      "age": "25",
+      "phone": "999333222",
+      "place": "Lima",
+      "specialization": "Ux Desing",
+      "firstTime": true,
+      "id": 8,
+      "profile": "Soy programadora frontend",
+      "email": "ptorres@gmail.com"
+    },
+    {
+      "name": "Jimena Torres",
+      "username": "jtorresm",
+      "password": "1234567",
+      "age": "27",
+      "phone": "999888777",
+      "place": "Lima",
+      "specialization": "FrontEnt",
+      "firstTime": true,
+      "id": 9,
+      "profile": "Soy una desarrolladora FrontEnd junior",
+      "email": "jimenatorres@gmail.com"
+    },
+    {
+      "name": "Charo Menchola",
+      "username": "charo",
+      "password": "123456",
+      "age": "30",
+      "phone": "999888123",
+      "place": "IDAT CENTRO",
+      "specialization": "Backend",
+      "firstTime": false,
+      "id": 10,
+      "profile": "Soy una desarrolladora backend junior",
+      "email": "charo@gmail.com"
+    },
+    {
+      "name": "periquito",
+      "username": "periquito",
+      "password": "12345",
+      "age": "22",
+      "phone": "999888111",
+      "place": "Lima",
+      "specialization": "Frontend",
+      "firstTime": false,
+      "id": 11,
+      "profile": "soy un frontend junior etc",
+      "email": "periqito@gmail.com"
+    }
+  ],
+  "messages": [
+    {
+      "messageId": 1,
+      "subjects": [
+        {
+          "name": "mnoriega"
+        },
+        {
+          "name": "Camila Cordova",
+          "profileUrl": "https://picsum.photos/100/100"
+        }
+      ],
+      "content": [
+        {
+          "dialogId": 1,
+          "sender": "mnoriega",
+          "message": "Lorem ipsum dolor sit",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "dialogId": 2,
+          "sender": "Camila Cordova",
+          "message": "amet consectetur adipisicing elit. Laboriosam",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "dialogId": 3,
+          "sender": "mnoriega",
+          "message": "earum quod.",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "dialogId": 4,
+          "sender": "mnoriega",
+          "message": "Molestias quod debitis facilis ex, odio",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "dialogId": 5,
+          "sender": "Camila Cordova",
+          "message": "exercitationem asdasd asdsads asdsadsds adsasdsd asdasdsd asdsadasdad asdsdasdas veniam sapiente, nam optio nobis modi officia necessitatibus",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "dialogId": 6,
+          "sender": "Camila Cordova",
+          "message": "unde? Aliquid",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "dialogId": 7,
+          "sender": "mnoriega",
+          "message": "quam repellendus.",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        }
+      ]
+    },
+    {
+      "messageId": 2,
+      "subjects": [
+        {
+          "name": "mnoriega"
+        },
+        {
+          "name": "Gabriela Vela",
+          "profileUrl": "https://picsum.photos/100/100"
+        }
+      ],
+      "content": [
+        {
+          "dialogId": 1,
+          "sender": "mnoriega",
+          "message": "Lorem ipsum dolor sit",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "dialogId": 2,
+          "sender": "Gabriela Vela",
+          "message": "amet consectetur adipisicing elit. Laboriosam",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "dialogId": 3,
+          "sender": "mnoriega",
+          "message": "earum quod.",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "dialogId": 4,
+          "sender": "mnoriega",
+          "message": "Molestias quod debitis facilis ex, odio",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "dialogId": 5,
+          "sender": "Gabriela Vela",
+          "message": "exercitationem veniamsadsa asdasdasdd asdasdasdad sapiente, nam optio nobis modi officia necessitatibus",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "dialogId": 6,
+          "sender": "Gabriela Vela",
+          "message": "unde? Aliquid",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        },
+        {
+          "dialogId": 7,
+          "sender": "mnoriega",
+          "message": "quam repellendus.",
+          "date": "Fri May 08 2020 11:09:55 GMT-0500 (Peru Standard Time)"
+        }
+      ]
+    }
+  ]
+}
